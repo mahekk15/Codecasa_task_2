@@ -1,0 +1,33 @@
+form {
+    margin: auto;
+    align-items: center;
+    text-align: center;
+    max-width: 400px;
+    background-color: cadetblue;
+    padding: 15px;
+    box-shadow: 5px 5px 15px;
+  }
+  button {
+    padding: 5px 10px;
+    color: cadetblue;
+    background-color: black;
+    font-weight: bolder;
+    cursor: pointer;
+    border: none;
+    transition: background-color 0.5s;
+  }
+  button:hover {
+    background-color: grey;
+    color: black;
+    border: none;
+  }
+  #in {
+    text-align: center;
+    font-size: 1.5em;
+    border-radius: 15px;
+    border: none;
+  }
+  p {
+    font-weight: bolder;
+    font-size: x-large;
+  }
